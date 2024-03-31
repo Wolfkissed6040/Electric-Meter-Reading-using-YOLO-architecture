@@ -12,15 +12,12 @@ for researchers in computer vision and energy management fields. The research no
 meter reading processes but also lays the groundwork for the development of more effective systems. With implications for smart city
 infrastructure and energy co
 
-
-## Authors
-
-- [@Rudraneel Dey](https://github.com/Wolfkissed6040)
-- [@Ritankar Das](https://github.com/drift6252)
-
-
 ## Screenshots
 
 ![YOLO accuracy comaprision](![image](https://github.com/Wolfkissed6040/Electric-Meter-Reading-using-YOLO-architecture/assets/109857615/00992a0f-2911-47b4-9e43-939f4b9a9e00)
 
 
+## Authors
+
+- [@Rudraneel Dey](https://github.com/Wolfkissed6040)
+- [@Ritankar Das](https://github.com/drift6252)
