@@ -22,5 +22,5 @@ infrastructure and energy co
 ## Screenshots
 
 ![YOLO accuracy comaprision](![image](https://github.com/Wolfkissed6040/Electric-Meter-Reading-using-YOLO-architecture/assets/109857615/00992a0f-2911-47b4-9e43-939f4b9a9e00)
-)
+
 
