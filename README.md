@@ -1,5 +1,5 @@
 
-# Automatic Electric Meter reading using YOLO architecture
+# Automatic Electric Meter reading using YOLO architecture :
 
 _Accurate electric meter reading is crucial for efficient energy management and billing processes. This paper introduces a
 comprehensive approach to automatic meter reading, leveraging the YOLOv8 model for meter display extraction and evaluating various
